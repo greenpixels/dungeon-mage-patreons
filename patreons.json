@@ -1,3 +1,4 @@
 [
-  { "name": "ampfaros", "tier_index" : 1, "sprite_name" : "spr_ampfaros"}
+  { "name": "ampfaros", "tier_index" : 1, "sprite_name" : "spr_ampfaros"},
+  { "name": "test", "tier_index" : 2, "sprite_name" : "spr_dungeon_mage"}
 ]
